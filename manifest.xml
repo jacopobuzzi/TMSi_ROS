@@ -1,0 +1,17 @@
+<package>
+  <description brief="tmsi">
+
+     tmsi
+
+  </description>
+  <author>nearlab</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/tmsi</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
